@@ -12,10 +12,11 @@ This was an existing code which I refactored to meet accessibility standards whi
 
 ## Link
 
+[Refactored Horiseon Webpage]()
 
 ## Screenshot
 
-
+![alt text](assets/images/horiseon.png)
 
 ## Credits
 
