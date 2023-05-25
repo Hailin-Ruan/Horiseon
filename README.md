@@ -12,7 +12,7 @@ This was an existing code which I refactored to meet accessibility standards whi
 
 ## Link
 
-[Refactored Horiseon Webpage]()
+[Refactored Horiseon Webpage](https://hailin-ruan.github.io/Horiseon/)
 
 ## Screenshot
 
